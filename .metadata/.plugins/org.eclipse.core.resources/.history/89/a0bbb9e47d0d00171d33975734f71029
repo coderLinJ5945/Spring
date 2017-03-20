@@ -1,0 +1,17 @@
+package com.lin.spring.DAO;
+
+/**
+ * 转账的DAO层接口
+ * @author HSAEE
+ *
+ */
+public interface AccountDAO {
+	/**
+	 * 
+	 * @param out :转出账户
+	 * @param account : 转出的钱数
+	 */
+	public void outMoney(String out,Double account);
+	
+	public void inMoney(String in,Double account);
+}

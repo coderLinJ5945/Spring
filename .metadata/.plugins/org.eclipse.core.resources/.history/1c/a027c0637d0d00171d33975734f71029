@@ -1,0 +1,5 @@
+package com.lin.spring.dao;
+
+public class AccountDal {
+
+}

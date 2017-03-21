@@ -1,0 +1,32 @@
+package test;
+
+import org.junit.runner.RunWith;
+import org.springframework.beans.factory.annotation.Autowired;
+import org.springframework.test.context.ContextConfiguration;
+import org.springframework.test.context.junit4.SpringJUnit4ClassRunner;
+
+/**
+ * 转账测试类
+ * @author HSAEE
+ *
+ */
+@RunWith(SpringJUnit4ClassRunner.class)
+@ContextConfiguration("classpath:applicationContext.xml")
+public class Test {
+	 @Autowired  
+	 private SuFriendService suFriendService;  
+	
+	
+	/**8//测试业务类
+	@Resource(name="accountDao")
+	private AccountService accountService;
+	//@Resource(name="accountDao")
+	//private AccountDAO accountDao;
+	@org.junit.Test
+	public void test() {
+		System.out.println("123");
+		//accountDao.inMoney("aaa", 200d);
+		accountService.transfer("aaa","bbb", 300d);
+	}*/
+
+}

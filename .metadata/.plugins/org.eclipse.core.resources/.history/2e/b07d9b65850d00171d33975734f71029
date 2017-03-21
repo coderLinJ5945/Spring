@@ -1,0 +1,17 @@
+package test;
+
+import static org.junit.Assert.*;
+
+/**
+ * ×ªÕË²âÊÔÀà
+ * @author HSAEE
+ *
+ */
+public class Test {
+
+	@org.junit.Test
+	public void test() {
+		System.out.println("123");
+	}
+
+}

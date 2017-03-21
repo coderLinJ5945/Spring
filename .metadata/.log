@@ -93,3 +93,1298 @@ org.tigris.subversion.subclipse.core.SVNException: 提供的 SVN 信息与磁盘
 
 !ENTRY org.eclipse.jface.text 2 0 2017-03-20 23:05:15.897
 !MESSAGE Duplicate template id: 'org.eclipse.wst.xslt.templates.xpath.round'
+
+!ENTRY org.eclipse.recommenders.types.rcp 1 4 2017-03-20 23:40:25.795
+!MESSAGE Full project indexing required:
+  [+] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.com.mchange.v2.c3p0-0.9.1.2.jar
+  [+] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.org.aopalliance-1.0.0.jar
+  [+] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.org.apache.commons.logging-1.1.1.jar
+  [+] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.org.apache.log4j-1.2.15.jar
+  [+] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.org.aspectj.weaver-1.6.8.RELEASE.jar
+  [+] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\mysql-connector-java-5.0.8-bin.jar
+  [+] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-aop-3.2.0.RELEASE.jar
+  [+] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-aspects-3.2.0.RELEASE.jar
+  [+] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-beans-3.2.0.RELEASE.jar
+  [+] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-context-3.2.0.RELEASE.jar
+  [+] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-core-3.2.0.RELEASE.jar
+  [+] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-expression-3.2.0.RELEASE.jar
+  [+] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-jdbc-3.2.0.RELEASE.jar
+  [+] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-test-3.2.0.RELEASE.jar
+  [+] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-tx-3.2.0.RELEASE.jar
+  [+] F:\work\jdk\jdk1.8(64)\jdk1.8.0(win_x64_1.8.0_74)\jre\lib\charsets.jar
+  [+] F:\work\jdk\jdk1.8(64)\jdk1.8.0(win_x64_1.8.0_74)\jre\lib\ext\access-bridge-64.jar
+  [+] F:\work\jdk\jdk1.8(64)\jdk1.8.0(win_x64_1.8.0_74)\jre\lib\ext\cldrdata.jar
+  [+] F:\work\jdk\jdk1.8(64)\jdk1.8.0(win_x64_1.8.0_74)\jre\lib\ext\dnsns.jar
+  [+] F:\work\jdk\jdk1.8(64)\jdk1.8.0(win_x64_1.8.0_74)\jre\lib\ext\jaccess.jar
+  [+] F:\work\jdk\jdk1.8(64)\jdk1.8.0(win_x64_1.8.0_74)\jre\lib\ext\jfxrt.jar
+  [+] F:\work\jdk\jdk1.8(64)\jdk1.8.0(win_x64_1.8.0_74)\jre\lib\ext\localedata.jar
+  [+] F:\work\jdk\jdk1.8(64)\jdk1.8.0(win_x64_1.8.0_74)\jre\lib\ext\nashorn.jar
+  [+] F:\work\jdk\jdk1.8(64)\jdk1.8.0(win_x64_1.8.0_74)\jre\lib\ext\sunec.jar
+  [+] F:\work\jdk\jdk1.8(64)\jdk1.8.0(win_x64_1.8.0_74)\jre\lib\ext\sunjce_provider.jar
+  [+] F:\work\jdk\jdk1.8(64)\jdk1.8.0(win_x64_1.8.0_74)\jre\lib\ext\sunmscapi.jar
+  [+] F:\work\jdk\jdk1.8(64)\jdk1.8.0(win_x64_1.8.0_74)\jre\lib\ext\sunpkcs11.jar
+  [+] F:\work\jdk\jdk1.8(64)\jdk1.8.0(win_x64_1.8.0_74)\jre\lib\ext\zipfs.jar
+  [+] F:\work\jdk\jdk1.8(64)\jdk1.8.0(win_x64_1.8.0_74)\jre\lib\jce.jar
+  [+] F:\work\jdk\jdk1.8(64)\jdk1.8.0(win_x64_1.8.0_74)\jre\lib\jfr.jar
+  [+] F:\work\jdk\jdk1.8(64)\jdk1.8.0(win_x64_1.8.0_74)\jre\lib\jsse.jar
+  [+] F:\work\jdk\jdk1.8(64)\jdk1.8.0(win_x64_1.8.0_74)\jre\lib\resources.jar
+  [+] F:\work\jdk\jdk1.8(64)\jdk1.8.0(win_x64_1.8.0_74)\jre\lib\rt.jar
+  [+] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.com.mchange.v2.c3p0-0.9.1.2.jar
+  [+] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.org.aopalliance-1.0.0.jar
+  [+] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.org.apache.commons.logging-1.1.1.jar
+  [+] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.org.apache.log4j-1.2.15.jar
+  [+] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.org.aspectj.weaver-1.6.8.RELEASE.jar
+  [+] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\mysql-connector-java-5.0.8-bin.jar
+  [+] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-aop-3.2.0.RELEASE.jar
+  [+] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-aspects-3.2.0.RELEASE.jar
+  [+] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-beans-3.2.0.RELEASE.jar
+  [+] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-context-3.2.0.RELEASE.jar
+  [+] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-core-3.2.0.RELEASE.jar
+  [+] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-expression-3.2.0.RELEASE.jar
+  [+] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-jdbc-3.2.0.RELEASE.jar
+  [+] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-test-3.2.0.RELEASE.jar
+  [+] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-tx-3.2.0.RELEASE.jar
+
+!STACK 0
+org.eclipse.recommenders.utils.Logs$LogTraceException
+	at org.eclipse.recommenders.utils.Logs$LogTraceException.newTrace(Logs.java:381)
+	at org.eclipse.recommenders.utils.Logs.log(Logs.java:134)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.needsRebuild(ProjectTypesIndex.java:169)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.startUp(ProjectTypesIndex.java:122)
+	at com.google.common.util.concurrent.AbstractIdleService$2$1.run(AbstractIdleService.java:54)
+	at com.google.common.util.concurrent.Callables$3.run(Callables.java:93)
+	at java.lang.Thread.run(Thread.java:745)
+
+!ENTRY org.eclipse.recommenders.types.rcp 1 4 2017-03-20 23:51:52.871
+!MESSAGE Full project indexing required:
+  [+] F:\work\elipse\eclipse-jee-neon-R-win32-x86_64\eclipse\plugins\org.hamcrest.core_1.3.0.v201303031735.jar
+  [+] F:\work\elipse\eclipse-jee-neon-R-win32-x86_64\eclipse\plugins\org.junit_4.12.0.v201504281640\junit.jar
+  [+] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.com.mchange.v2.c3p0-0.9.1.2.jar
+  [+] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.org.aopalliance-1.0.0.jar
+  [+] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.org.apache.commons.logging-1.1.1.jar
+  [+] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.org.apache.log4j-1.2.15.jar
+  [+] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.org.aspectj.weaver-1.6.8.RELEASE.jar
+  [+] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\mysql-connector-java-5.0.8-bin.jar
+  [+] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-aop-3.2.0.RELEASE.jar
+  [+] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-aspects-3.2.0.RELEASE.jar
+  [+] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-beans-3.2.0.RELEASE.jar
+  [+] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-context-3.2.0.RELEASE.jar
+  [+] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-core-3.2.0.RELEASE.jar
+  [+] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-expression-3.2.0.RELEASE.jar
+  [+] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-jdbc-3.2.0.RELEASE.jar
+  [+] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-test-3.2.0.RELEASE.jar
+  [+] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-tx-3.2.0.RELEASE.jar
+
+!STACK 0
+org.eclipse.recommenders.utils.Logs$LogTraceException
+	at org.eclipse.recommenders.utils.Logs$LogTraceException.newTrace(Logs.java:381)
+	at org.eclipse.recommenders.utils.Logs.log(Logs.java:134)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.needsRebuild(ProjectTypesIndex.java:169)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.suggestRebuild(ProjectTypesIndex.java:444)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.rebuildIndex(TypesIndexService.java:120)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.process(TypesIndexService.java:57)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.process(TypesIndexService.java:63)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.elementChanged(TypesIndexService.java:49)
+	at org.eclipse.jdt.internal.core.DeltaProcessor$3.run(DeltaProcessor.java:1662)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.notifyListeners(DeltaProcessor.java:1652)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.firePostChangeDelta(DeltaProcessor.java:1486)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.fire(DeltaProcessor.java:1462)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.resourceChanged(DeltaProcessor.java:2074)
+	at org.eclipse.jdt.internal.core.DeltaProcessingState.resourceChanged(DeltaProcessingState.java:477)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:299)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:289)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:152)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:374)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1469)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2253)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2267)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.run(WorkspaceModifyOperation.java:128)
+	at org.eclipse.jface.operation.ModalContext.runInCurrentThread(ModalContext.java:437)
+	at org.eclipse.jface.operation.ModalContext.run(ModalContext.java:353)
+	at org.eclipse.jface.wizard.WizardDialog.run(WizardDialog.java:993)
+	at org.eclipse.ui.internal.progress.ProgressManager$RunnableWithStatus.run(ProgressManager.java:1242)
+	at org.eclipse.swt.custom.BusyIndicator.showWhile(BusyIndicator.java:70)
+	at org.eclipse.ui.internal.progress.ProgressManager$5.run(ProgressManager.java:1092)
+	at org.eclipse.swt.widgets.Synchronizer.syncExec(Synchronizer.java:233)
+	at org.eclipse.ui.internal.UISynchronizer.syncExec(UISynchronizer.java:145)
+	at org.eclipse.swt.widgets.Display.syncExec(Display.java:4813)
+	at org.eclipse.ui.internal.progress.ProgressManager.runInUI(ProgressManager.java:1089)
+	at org.eclipse.jdt.internal.junit.wizards.JUnitWizard.finishPage(JUnitWizard.java:66)
+	at org.eclipse.jdt.internal.junit.wizards.NewTestCaseCreationWizard.performFinish(NewTestCaseCreationWizard.java:121)
+	at org.eclipse.jface.wizard.WizardDialog.finishPressed(WizardDialog.java:790)
+	at org.eclipse.jface.wizard.WizardDialog.buttonPressed(WizardDialog.java:423)
+	at org.eclipse.jface.dialogs.Dialog$2.widgetSelected(Dialog.java:618)
+	at org.eclipse.swt.widgets.TypedListener.handleEvent(TypedListener.java:249)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4410)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1079)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4228)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3816)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:818)
+	at org.eclipse.jface.window.Window.open(Window.java:794)
+	at org.eclipse.ui.internal.handlers.WizardHandler$New.executeHandler(WizardHandler.java:269)
+	at org.eclipse.ui.internal.handlers.WizardHandler.execute(WizardHandler.java:290)
+	at org.eclipse.ui.internal.handlers.HandlerProxy.execute(HandlerProxy.java:295)
+	at org.eclipse.ui.internal.handlers.E4HandlerProxy.execute(E4HandlerProxy.java:90)
+	at sun.reflect.GeneratedMethodAccessor51.invoke(Unknown Source)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.e4.core.internal.di.MethodRequestor.execute(MethodRequestor.java:54)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invokeUsingClass(InjectorImpl.java:282)
+	at org.eclipse.e4.core.internal.di.InjectorImpl.invoke(InjectorImpl.java:264)
+	at org.eclipse.e4.core.contexts.ContextInjectionFactory.invoke(ContextInjectionFactory.java:132)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceHandler.execute(HandlerServiceHandler.java:152)
+	at org.eclipse.core.commands.Command.executeWithChecks(Command.java:494)
+	at org.eclipse.core.commands.ParameterizedCommand.executeWithChecks(ParameterizedCommand.java:488)
+	at org.eclipse.e4.core.commands.internal.HandlerServiceImpl.executeHandler(HandlerServiceImpl.java:210)
+	at org.eclipse.ui.internal.handlers.LegacyHandlerService.executeCommand(LegacyHandlerService.java:353)
+	at org.eclipse.ui.internal.actions.CommandAction.runWithEvent(CommandAction.java:155)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:565)
+	at org.eclipse.jface.action.ActionContributionItem.lambda$4(ActionContributionItem.java:397)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4410)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1079)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4228)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3816)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1121)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1022)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:150)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:687)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:604)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:138)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:673)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:610)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1519)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1492)
+
+!ENTRY org.eclipse.recommenders.types.rcp 1 4 2017-03-21 00:21:54.355
+!MESSAGE Full project indexing required:
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-beans-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-test-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.org.apache.commons.logging-1.1.1.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-expression-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-aop-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\mysql-connector-java-5.0.8-bin.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-context-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-tx-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.org.apache.log4j-1.2.15.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-jdbc-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-aspects-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-core-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.com.mchange.v2.c3p0-0.9.1.2.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.org.aopalliance-1.0.0.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.org.aspectj.weaver-1.6.8.RELEASE.jar
+
+!STACK 0
+org.eclipse.recommenders.utils.Logs$LogTraceException
+	at org.eclipse.recommenders.utils.Logs$LogTraceException.newTrace(Logs.java:381)
+	at org.eclipse.recommenders.utils.Logs.log(Logs.java:134)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.needsRebuild(ProjectTypesIndex.java:169)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.suggestRebuild(ProjectTypesIndex.java:444)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.rebuildIndex(TypesIndexService.java:120)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.processElementRemoved(TypesIndexService.java:107)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.process(TypesIndexService.java:76)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.process(TypesIndexService.java:63)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.process(TypesIndexService.java:63)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.elementChanged(TypesIndexService.java:49)
+	at org.eclipse.jdt.internal.core.DeltaProcessor$3.run(DeltaProcessor.java:1662)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.notifyListeners(DeltaProcessor.java:1652)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.firePostChangeDelta(DeltaProcessor.java:1486)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.fire(DeltaProcessor.java:1462)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.resourceChanged(DeltaProcessor.java:2074)
+	at org.eclipse.jdt.internal.core.DeltaProcessingState.resourceChanged(DeltaProcessingState.java:477)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:299)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:289)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:152)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:374)
+	at org.eclipse.core.internal.resources.Workspace.checkpoint(Workspace.java:529)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation$1.run(PerformChangeOperation.java:262)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2240)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2267)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.executeChange(PerformChangeOperation.java:305)
+	at org.eclipse.ltk.internal.ui.refactoring.UIPerformChangeOperation.executeChange(UIPerformChangeOperation.java:96)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.run(PerformChangeOperation.java:216)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2240)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2267)
+	at org.eclipse.ltk.internal.ui.refactoring.WorkbenchRunnableAdapter.run(WorkbenchRunnableAdapter.java:86)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:119)
+
+!ENTRY org.eclipse.recommenders.types.rcp 1 4 2017-03-21 00:21:54.381
+!MESSAGE Full project indexing required:
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-beans-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-test-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.org.apache.commons.logging-1.1.1.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-expression-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-aop-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\mysql-connector-java-5.0.8-bin.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-context-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-tx-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.org.apache.log4j-1.2.15.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-jdbc-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-aspects-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-core-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.com.mchange.v2.c3p0-0.9.1.2.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.org.aopalliance-1.0.0.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.org.aspectj.weaver-1.6.8.RELEASE.jar
+
+!STACK 0
+org.eclipse.recommenders.utils.Logs$LogTraceException
+	at org.eclipse.recommenders.utils.Logs$LogTraceException.newTrace(Logs.java:381)
+	at org.eclipse.recommenders.utils.Logs.log(Logs.java:134)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.needsRebuild(ProjectTypesIndex.java:169)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.suggestRebuild(ProjectTypesIndex.java:444)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.rebuildIndex(TypesIndexService.java:120)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.processElementRemoved(TypesIndexService.java:107)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.process(TypesIndexService.java:76)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.process(TypesIndexService.java:63)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.process(TypesIndexService.java:63)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.elementChanged(TypesIndexService.java:49)
+	at org.eclipse.jdt.internal.core.DeltaProcessor$3.run(DeltaProcessor.java:1662)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.notifyListeners(DeltaProcessor.java:1652)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.firePostChangeDelta(DeltaProcessor.java:1486)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.fire(DeltaProcessor.java:1462)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.resourceChanged(DeltaProcessor.java:2074)
+	at org.eclipse.jdt.internal.core.DeltaProcessingState.resourceChanged(DeltaProcessingState.java:477)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:299)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:289)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:152)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:374)
+	at org.eclipse.core.internal.resources.Workspace.checkpoint(Workspace.java:529)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation$1.run(PerformChangeOperation.java:262)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2240)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2267)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.executeChange(PerformChangeOperation.java:305)
+	at org.eclipse.ltk.internal.ui.refactoring.UIPerformChangeOperation.executeChange(UIPerformChangeOperation.java:96)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.run(PerformChangeOperation.java:216)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2240)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2267)
+	at org.eclipse.ltk.internal.ui.refactoring.WorkbenchRunnableAdapter.run(WorkbenchRunnableAdapter.java:86)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:119)
+
+!ENTRY org.eclipse.recommenders.types.rcp 1 4 2017-03-21 00:21:54.411
+!MESSAGE Full project indexing required:
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-beans-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-test-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.org.apache.commons.logging-1.1.1.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-expression-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-aop-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\mysql-connector-java-5.0.8-bin.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-context-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-tx-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.org.apache.log4j-1.2.15.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-jdbc-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-aspects-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-core-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.com.mchange.v2.c3p0-0.9.1.2.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.org.aopalliance-1.0.0.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.org.aspectj.weaver-1.6.8.RELEASE.jar
+
+!STACK 0
+org.eclipse.recommenders.utils.Logs$LogTraceException
+	at org.eclipse.recommenders.utils.Logs$LogTraceException.newTrace(Logs.java:381)
+	at org.eclipse.recommenders.utils.Logs.log(Logs.java:134)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.needsRebuild(ProjectTypesIndex.java:169)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.suggestRebuild(ProjectTypesIndex.java:444)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.rebuildIndex(TypesIndexService.java:120)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.processElementRemoved(TypesIndexService.java:107)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.process(TypesIndexService.java:76)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.process(TypesIndexService.java:63)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.process(TypesIndexService.java:63)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.elementChanged(TypesIndexService.java:49)
+	at org.eclipse.jdt.internal.core.DeltaProcessor$3.run(DeltaProcessor.java:1662)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.notifyListeners(DeltaProcessor.java:1652)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.firePostChangeDelta(DeltaProcessor.java:1486)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.fire(DeltaProcessor.java:1462)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.resourceChanged(DeltaProcessor.java:2074)
+	at org.eclipse.jdt.internal.core.DeltaProcessingState.resourceChanged(DeltaProcessingState.java:477)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:299)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:289)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:152)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:374)
+	at org.eclipse.core.internal.resources.Workspace.checkpoint(Workspace.java:529)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation$1.run(PerformChangeOperation.java:262)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2240)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2267)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.executeChange(PerformChangeOperation.java:305)
+	at org.eclipse.ltk.internal.ui.refactoring.UIPerformChangeOperation.executeChange(UIPerformChangeOperation.java:96)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.run(PerformChangeOperation.java:216)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2240)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2267)
+	at org.eclipse.ltk.internal.ui.refactoring.WorkbenchRunnableAdapter.run(WorkbenchRunnableAdapter.java:86)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:119)
+
+!ENTRY org.eclipse.recommenders.types.rcp 1 4 2017-03-21 00:21:54.438
+!MESSAGE Full project indexing required:
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-beans-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-test-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.org.apache.commons.logging-1.1.1.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-expression-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-aop-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\mysql-connector-java-5.0.8-bin.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-context-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-tx-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.org.apache.log4j-1.2.15.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-jdbc-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-aspects-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-core-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.com.mchange.v2.c3p0-0.9.1.2.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.org.aopalliance-1.0.0.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.org.aspectj.weaver-1.6.8.RELEASE.jar
+
+!STACK 0
+org.eclipse.recommenders.utils.Logs$LogTraceException
+	at org.eclipse.recommenders.utils.Logs$LogTraceException.newTrace(Logs.java:381)
+	at org.eclipse.recommenders.utils.Logs.log(Logs.java:134)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.needsRebuild(ProjectTypesIndex.java:169)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.suggestRebuild(ProjectTypesIndex.java:444)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.rebuildIndex(TypesIndexService.java:120)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.processElementRemoved(TypesIndexService.java:107)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.process(TypesIndexService.java:76)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.process(TypesIndexService.java:63)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.process(TypesIndexService.java:63)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.elementChanged(TypesIndexService.java:49)
+	at org.eclipse.jdt.internal.core.DeltaProcessor$3.run(DeltaProcessor.java:1662)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.notifyListeners(DeltaProcessor.java:1652)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.firePostChangeDelta(DeltaProcessor.java:1486)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.fire(DeltaProcessor.java:1462)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.resourceChanged(DeltaProcessor.java:2074)
+	at org.eclipse.jdt.internal.core.DeltaProcessingState.resourceChanged(DeltaProcessingState.java:477)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:299)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:289)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:152)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:374)
+	at org.eclipse.core.internal.resources.Workspace.checkpoint(Workspace.java:529)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation$1.run(PerformChangeOperation.java:262)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2240)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2267)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.executeChange(PerformChangeOperation.java:305)
+	at org.eclipse.ltk.internal.ui.refactoring.UIPerformChangeOperation.executeChange(UIPerformChangeOperation.java:96)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.run(PerformChangeOperation.java:216)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2240)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2267)
+	at org.eclipse.ltk.internal.ui.refactoring.WorkbenchRunnableAdapter.run(WorkbenchRunnableAdapter.java:86)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:119)
+
+!ENTRY org.eclipse.recommenders.types.rcp 1 4 2017-03-21 00:21:54.459
+!MESSAGE Full project indexing required:
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-beans-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-test-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.org.apache.commons.logging-1.1.1.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-expression-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-aop-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\mysql-connector-java-5.0.8-bin.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-context-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-tx-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.org.apache.log4j-1.2.15.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-jdbc-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-aspects-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-core-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.com.mchange.v2.c3p0-0.9.1.2.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.org.aopalliance-1.0.0.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.org.aspectj.weaver-1.6.8.RELEASE.jar
+
+!STACK 0
+org.eclipse.recommenders.utils.Logs$LogTraceException
+	at org.eclipse.recommenders.utils.Logs$LogTraceException.newTrace(Logs.java:381)
+	at org.eclipse.recommenders.utils.Logs.log(Logs.java:134)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.needsRebuild(ProjectTypesIndex.java:169)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.suggestRebuild(ProjectTypesIndex.java:444)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.rebuildIndex(TypesIndexService.java:120)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.processElementRemoved(TypesIndexService.java:107)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.process(TypesIndexService.java:76)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.process(TypesIndexService.java:63)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.process(TypesIndexService.java:63)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.elementChanged(TypesIndexService.java:49)
+	at org.eclipse.jdt.internal.core.DeltaProcessor$3.run(DeltaProcessor.java:1662)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.notifyListeners(DeltaProcessor.java:1652)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.firePostChangeDelta(DeltaProcessor.java:1486)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.fire(DeltaProcessor.java:1462)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.resourceChanged(DeltaProcessor.java:2074)
+	at org.eclipse.jdt.internal.core.DeltaProcessingState.resourceChanged(DeltaProcessingState.java:477)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:299)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:289)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:152)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:374)
+	at org.eclipse.core.internal.resources.Workspace.checkpoint(Workspace.java:529)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation$1.run(PerformChangeOperation.java:262)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2240)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2267)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.executeChange(PerformChangeOperation.java:305)
+	at org.eclipse.ltk.internal.ui.refactoring.UIPerformChangeOperation.executeChange(UIPerformChangeOperation.java:96)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.run(PerformChangeOperation.java:216)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2240)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2267)
+	at org.eclipse.ltk.internal.ui.refactoring.WorkbenchRunnableAdapter.run(WorkbenchRunnableAdapter.java:86)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:119)
+
+!ENTRY org.eclipse.recommenders.types.rcp 1 4 2017-03-21 00:21:54.480
+!MESSAGE Full project indexing required:
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-beans-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-test-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.org.apache.commons.logging-1.1.1.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-expression-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-aop-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\mysql-connector-java-5.0.8-bin.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-context-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-tx-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.org.apache.log4j-1.2.15.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-jdbc-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-aspects-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-core-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.com.mchange.v2.c3p0-0.9.1.2.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.org.aopalliance-1.0.0.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.org.aspectj.weaver-1.6.8.RELEASE.jar
+
+!STACK 0
+org.eclipse.recommenders.utils.Logs$LogTraceException
+	at org.eclipse.recommenders.utils.Logs$LogTraceException.newTrace(Logs.java:381)
+	at org.eclipse.recommenders.utils.Logs.log(Logs.java:134)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.needsRebuild(ProjectTypesIndex.java:169)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.suggestRebuild(ProjectTypesIndex.java:444)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.rebuildIndex(TypesIndexService.java:120)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.processElementRemoved(TypesIndexService.java:107)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.process(TypesIndexService.java:76)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.process(TypesIndexService.java:63)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.process(TypesIndexService.java:63)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.elementChanged(TypesIndexService.java:49)
+	at org.eclipse.jdt.internal.core.DeltaProcessor$3.run(DeltaProcessor.java:1662)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.notifyListeners(DeltaProcessor.java:1652)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.firePostChangeDelta(DeltaProcessor.java:1486)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.fire(DeltaProcessor.java:1462)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.resourceChanged(DeltaProcessor.java:2074)
+	at org.eclipse.jdt.internal.core.DeltaProcessingState.resourceChanged(DeltaProcessingState.java:477)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:299)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:289)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:152)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:374)
+	at org.eclipse.core.internal.resources.Workspace.checkpoint(Workspace.java:529)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation$1.run(PerformChangeOperation.java:262)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2240)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2267)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.executeChange(PerformChangeOperation.java:305)
+	at org.eclipse.ltk.internal.ui.refactoring.UIPerformChangeOperation.executeChange(UIPerformChangeOperation.java:96)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.run(PerformChangeOperation.java:216)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2240)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2267)
+	at org.eclipse.ltk.internal.ui.refactoring.WorkbenchRunnableAdapter.run(WorkbenchRunnableAdapter.java:86)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:119)
+
+!ENTRY org.eclipse.recommenders.types.rcp 1 4 2017-03-21 00:21:54.500
+!MESSAGE Full project indexing required:
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-beans-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-test-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.org.apache.commons.logging-1.1.1.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-expression-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-aop-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\mysql-connector-java-5.0.8-bin.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-context-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-tx-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.org.apache.log4j-1.2.15.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-jdbc-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-aspects-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-core-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.com.mchange.v2.c3p0-0.9.1.2.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.org.aopalliance-1.0.0.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.org.aspectj.weaver-1.6.8.RELEASE.jar
+
+!STACK 0
+org.eclipse.recommenders.utils.Logs$LogTraceException
+	at org.eclipse.recommenders.utils.Logs$LogTraceException.newTrace(Logs.java:381)
+	at org.eclipse.recommenders.utils.Logs.log(Logs.java:134)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.needsRebuild(ProjectTypesIndex.java:169)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.suggestRebuild(ProjectTypesIndex.java:444)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.rebuildIndex(TypesIndexService.java:120)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.processElementRemoved(TypesIndexService.java:107)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.process(TypesIndexService.java:76)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.process(TypesIndexService.java:63)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.process(TypesIndexService.java:63)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.elementChanged(TypesIndexService.java:49)
+	at org.eclipse.jdt.internal.core.DeltaProcessor$3.run(DeltaProcessor.java:1662)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.notifyListeners(DeltaProcessor.java:1652)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.firePostChangeDelta(DeltaProcessor.java:1486)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.fire(DeltaProcessor.java:1462)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.resourceChanged(DeltaProcessor.java:2074)
+	at org.eclipse.jdt.internal.core.DeltaProcessingState.resourceChanged(DeltaProcessingState.java:477)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:299)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:289)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:152)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:374)
+	at org.eclipse.core.internal.resources.Workspace.checkpoint(Workspace.java:529)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation$1.run(PerformChangeOperation.java:262)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2240)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2267)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.executeChange(PerformChangeOperation.java:305)
+	at org.eclipse.ltk.internal.ui.refactoring.UIPerformChangeOperation.executeChange(UIPerformChangeOperation.java:96)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.run(PerformChangeOperation.java:216)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2240)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2267)
+	at org.eclipse.ltk.internal.ui.refactoring.WorkbenchRunnableAdapter.run(WorkbenchRunnableAdapter.java:86)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:119)
+
+!ENTRY org.eclipse.recommenders.types.rcp 1 4 2017-03-21 00:21:54.520
+!MESSAGE Full project indexing required:
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-beans-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-test-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.org.apache.commons.logging-1.1.1.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-expression-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-aop-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\mysql-connector-java-5.0.8-bin.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-context-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-tx-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.org.apache.log4j-1.2.15.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-jdbc-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-aspects-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-core-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.com.mchange.v2.c3p0-0.9.1.2.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.org.aopalliance-1.0.0.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.org.aspectj.weaver-1.6.8.RELEASE.jar
+
+!STACK 0
+org.eclipse.recommenders.utils.Logs$LogTraceException
+	at org.eclipse.recommenders.utils.Logs$LogTraceException.newTrace(Logs.java:381)
+	at org.eclipse.recommenders.utils.Logs.log(Logs.java:134)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.needsRebuild(ProjectTypesIndex.java:169)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.suggestRebuild(ProjectTypesIndex.java:444)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.rebuildIndex(TypesIndexService.java:120)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.processElementRemoved(TypesIndexService.java:107)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.process(TypesIndexService.java:76)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.process(TypesIndexService.java:63)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.process(TypesIndexService.java:63)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.elementChanged(TypesIndexService.java:49)
+	at org.eclipse.jdt.internal.core.DeltaProcessor$3.run(DeltaProcessor.java:1662)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.notifyListeners(DeltaProcessor.java:1652)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.firePostChangeDelta(DeltaProcessor.java:1486)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.fire(DeltaProcessor.java:1462)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.resourceChanged(DeltaProcessor.java:2074)
+	at org.eclipse.jdt.internal.core.DeltaProcessingState.resourceChanged(DeltaProcessingState.java:477)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:299)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:289)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:152)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:374)
+	at org.eclipse.core.internal.resources.Workspace.checkpoint(Workspace.java:529)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation$1.run(PerformChangeOperation.java:262)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2240)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2267)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.executeChange(PerformChangeOperation.java:305)
+	at org.eclipse.ltk.internal.ui.refactoring.UIPerformChangeOperation.executeChange(UIPerformChangeOperation.java:96)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.run(PerformChangeOperation.java:216)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2240)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2267)
+	at org.eclipse.ltk.internal.ui.refactoring.WorkbenchRunnableAdapter.run(WorkbenchRunnableAdapter.java:86)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:119)
+
+!ENTRY org.eclipse.recommenders.types.rcp 1 4 2017-03-21 00:21:54.542
+!MESSAGE Full project indexing required:
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-beans-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-test-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.org.apache.commons.logging-1.1.1.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-expression-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-aop-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\mysql-connector-java-5.0.8-bin.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-context-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-tx-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.org.apache.log4j-1.2.15.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-jdbc-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-aspects-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-core-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.com.mchange.v2.c3p0-0.9.1.2.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.org.aopalliance-1.0.0.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.org.aspectj.weaver-1.6.8.RELEASE.jar
+
+!STACK 0
+org.eclipse.recommenders.utils.Logs$LogTraceException
+	at org.eclipse.recommenders.utils.Logs$LogTraceException.newTrace(Logs.java:381)
+	at org.eclipse.recommenders.utils.Logs.log(Logs.java:134)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.needsRebuild(ProjectTypesIndex.java:169)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.suggestRebuild(ProjectTypesIndex.java:444)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.rebuildIndex(TypesIndexService.java:120)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.processElementRemoved(TypesIndexService.java:107)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.process(TypesIndexService.java:76)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.process(TypesIndexService.java:63)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.process(TypesIndexService.java:63)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.elementChanged(TypesIndexService.java:49)
+	at org.eclipse.jdt.internal.core.DeltaProcessor$3.run(DeltaProcessor.java:1662)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.notifyListeners(DeltaProcessor.java:1652)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.firePostChangeDelta(DeltaProcessor.java:1486)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.fire(DeltaProcessor.java:1462)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.resourceChanged(DeltaProcessor.java:2074)
+	at org.eclipse.jdt.internal.core.DeltaProcessingState.resourceChanged(DeltaProcessingState.java:477)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:299)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:289)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:152)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:374)
+	at org.eclipse.core.internal.resources.Workspace.checkpoint(Workspace.java:529)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation$1.run(PerformChangeOperation.java:262)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2240)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2267)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.executeChange(PerformChangeOperation.java:305)
+	at org.eclipse.ltk.internal.ui.refactoring.UIPerformChangeOperation.executeChange(UIPerformChangeOperation.java:96)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.run(PerformChangeOperation.java:216)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2240)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2267)
+	at org.eclipse.ltk.internal.ui.refactoring.WorkbenchRunnableAdapter.run(WorkbenchRunnableAdapter.java:86)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:119)
+
+!ENTRY org.eclipse.recommenders.types.rcp 1 4 2017-03-21 00:21:54.562
+!MESSAGE Full project indexing required:
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-beans-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-test-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.org.apache.commons.logging-1.1.1.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-expression-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-aop-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\mysql-connector-java-5.0.8-bin.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-context-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-tx-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.org.apache.log4j-1.2.15.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-jdbc-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-aspects-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-core-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.com.mchange.v2.c3p0-0.9.1.2.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.org.aopalliance-1.0.0.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.org.aspectj.weaver-1.6.8.RELEASE.jar
+
+!STACK 0
+org.eclipse.recommenders.utils.Logs$LogTraceException
+	at org.eclipse.recommenders.utils.Logs$LogTraceException.newTrace(Logs.java:381)
+	at org.eclipse.recommenders.utils.Logs.log(Logs.java:134)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.needsRebuild(ProjectTypesIndex.java:169)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.suggestRebuild(ProjectTypesIndex.java:444)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.rebuildIndex(TypesIndexService.java:120)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.processElementRemoved(TypesIndexService.java:107)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.process(TypesIndexService.java:76)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.process(TypesIndexService.java:63)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.process(TypesIndexService.java:63)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.elementChanged(TypesIndexService.java:49)
+	at org.eclipse.jdt.internal.core.DeltaProcessor$3.run(DeltaProcessor.java:1662)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.notifyListeners(DeltaProcessor.java:1652)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.firePostChangeDelta(DeltaProcessor.java:1486)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.fire(DeltaProcessor.java:1462)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.resourceChanged(DeltaProcessor.java:2074)
+	at org.eclipse.jdt.internal.core.DeltaProcessingState.resourceChanged(DeltaProcessingState.java:477)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:299)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:289)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:152)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:374)
+	at org.eclipse.core.internal.resources.Workspace.checkpoint(Workspace.java:529)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation$1.run(PerformChangeOperation.java:262)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2240)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2267)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.executeChange(PerformChangeOperation.java:305)
+	at org.eclipse.ltk.internal.ui.refactoring.UIPerformChangeOperation.executeChange(UIPerformChangeOperation.java:96)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.run(PerformChangeOperation.java:216)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2240)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2267)
+	at org.eclipse.ltk.internal.ui.refactoring.WorkbenchRunnableAdapter.run(WorkbenchRunnableAdapter.java:86)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:119)
+
+!ENTRY org.eclipse.recommenders.types.rcp 1 4 2017-03-21 00:21:54.583
+!MESSAGE Full project indexing required:
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-beans-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-test-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.org.apache.commons.logging-1.1.1.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-expression-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-aop-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\mysql-connector-java-5.0.8-bin.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-context-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-tx-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.org.apache.log4j-1.2.15.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-jdbc-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-aspects-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-core-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.com.mchange.v2.c3p0-0.9.1.2.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.org.aopalliance-1.0.0.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.org.aspectj.weaver-1.6.8.RELEASE.jar
+
+!STACK 0
+org.eclipse.recommenders.utils.Logs$LogTraceException
+	at org.eclipse.recommenders.utils.Logs$LogTraceException.newTrace(Logs.java:381)
+	at org.eclipse.recommenders.utils.Logs.log(Logs.java:134)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.needsRebuild(ProjectTypesIndex.java:169)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.suggestRebuild(ProjectTypesIndex.java:444)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.rebuildIndex(TypesIndexService.java:120)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.processElementRemoved(TypesIndexService.java:107)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.process(TypesIndexService.java:76)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.process(TypesIndexService.java:63)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.process(TypesIndexService.java:63)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.elementChanged(TypesIndexService.java:49)
+	at org.eclipse.jdt.internal.core.DeltaProcessor$3.run(DeltaProcessor.java:1662)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.notifyListeners(DeltaProcessor.java:1652)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.firePostChangeDelta(DeltaProcessor.java:1486)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.fire(DeltaProcessor.java:1462)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.resourceChanged(DeltaProcessor.java:2074)
+	at org.eclipse.jdt.internal.core.DeltaProcessingState.resourceChanged(DeltaProcessingState.java:477)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:299)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:289)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:152)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:374)
+	at org.eclipse.core.internal.resources.Workspace.checkpoint(Workspace.java:529)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation$1.run(PerformChangeOperation.java:262)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2240)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2267)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.executeChange(PerformChangeOperation.java:305)
+	at org.eclipse.ltk.internal.ui.refactoring.UIPerformChangeOperation.executeChange(UIPerformChangeOperation.java:96)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.run(PerformChangeOperation.java:216)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2240)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2267)
+	at org.eclipse.ltk.internal.ui.refactoring.WorkbenchRunnableAdapter.run(WorkbenchRunnableAdapter.java:86)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:119)
+
+!ENTRY org.eclipse.recommenders.types.rcp 1 4 2017-03-21 00:21:54.602
+!MESSAGE Full project indexing required:
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-beans-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-test-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.org.apache.commons.logging-1.1.1.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-expression-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-aop-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\mysql-connector-java-5.0.8-bin.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-context-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-tx-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.org.apache.log4j-1.2.15.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-jdbc-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-aspects-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-core-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.com.mchange.v2.c3p0-0.9.1.2.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.org.aopalliance-1.0.0.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.org.aspectj.weaver-1.6.8.RELEASE.jar
+
+!STACK 0
+org.eclipse.recommenders.utils.Logs$LogTraceException
+	at org.eclipse.recommenders.utils.Logs$LogTraceException.newTrace(Logs.java:381)
+	at org.eclipse.recommenders.utils.Logs.log(Logs.java:134)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.needsRebuild(ProjectTypesIndex.java:169)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.suggestRebuild(ProjectTypesIndex.java:444)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.rebuildIndex(TypesIndexService.java:120)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.processElementRemoved(TypesIndexService.java:107)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.process(TypesIndexService.java:76)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.process(TypesIndexService.java:63)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.process(TypesIndexService.java:63)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.elementChanged(TypesIndexService.java:49)
+	at org.eclipse.jdt.internal.core.DeltaProcessor$3.run(DeltaProcessor.java:1662)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.notifyListeners(DeltaProcessor.java:1652)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.firePostChangeDelta(DeltaProcessor.java:1486)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.fire(DeltaProcessor.java:1462)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.resourceChanged(DeltaProcessor.java:2074)
+	at org.eclipse.jdt.internal.core.DeltaProcessingState.resourceChanged(DeltaProcessingState.java:477)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:299)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:289)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:152)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:374)
+	at org.eclipse.core.internal.resources.Workspace.checkpoint(Workspace.java:529)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation$1.run(PerformChangeOperation.java:262)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2240)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2267)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.executeChange(PerformChangeOperation.java:305)
+	at org.eclipse.ltk.internal.ui.refactoring.UIPerformChangeOperation.executeChange(UIPerformChangeOperation.java:96)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.run(PerformChangeOperation.java:216)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2240)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2267)
+	at org.eclipse.ltk.internal.ui.refactoring.WorkbenchRunnableAdapter.run(WorkbenchRunnableAdapter.java:86)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:119)
+
+!ENTRY org.eclipse.recommenders.types.rcp 1 4 2017-03-21 00:21:54.625
+!MESSAGE Full project indexing required:
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-beans-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-test-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.org.apache.commons.logging-1.1.1.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-expression-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-aop-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\mysql-connector-java-5.0.8-bin.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-context-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-tx-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.org.apache.log4j-1.2.15.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-jdbc-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-aspects-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-core-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.com.mchange.v2.c3p0-0.9.1.2.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.org.aopalliance-1.0.0.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.org.aspectj.weaver-1.6.8.RELEASE.jar
+
+!STACK 0
+org.eclipse.recommenders.utils.Logs$LogTraceException
+	at org.eclipse.recommenders.utils.Logs$LogTraceException.newTrace(Logs.java:381)
+	at org.eclipse.recommenders.utils.Logs.log(Logs.java:134)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.needsRebuild(ProjectTypesIndex.java:169)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.suggestRebuild(ProjectTypesIndex.java:444)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.rebuildIndex(TypesIndexService.java:120)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.processElementRemoved(TypesIndexService.java:107)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.process(TypesIndexService.java:76)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.process(TypesIndexService.java:63)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.process(TypesIndexService.java:63)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.elementChanged(TypesIndexService.java:49)
+	at org.eclipse.jdt.internal.core.DeltaProcessor$3.run(DeltaProcessor.java:1662)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.notifyListeners(DeltaProcessor.java:1652)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.firePostChangeDelta(DeltaProcessor.java:1486)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.fire(DeltaProcessor.java:1462)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.resourceChanged(DeltaProcessor.java:2074)
+	at org.eclipse.jdt.internal.core.DeltaProcessingState.resourceChanged(DeltaProcessingState.java:477)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:299)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:289)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:152)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:374)
+	at org.eclipse.core.internal.resources.Workspace.checkpoint(Workspace.java:529)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation$1.run(PerformChangeOperation.java:262)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2240)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2267)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.executeChange(PerformChangeOperation.java:305)
+	at org.eclipse.ltk.internal.ui.refactoring.UIPerformChangeOperation.executeChange(UIPerformChangeOperation.java:96)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.run(PerformChangeOperation.java:216)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2240)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2267)
+	at org.eclipse.ltk.internal.ui.refactoring.WorkbenchRunnableAdapter.run(WorkbenchRunnableAdapter.java:86)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:119)
+
+!ENTRY org.eclipse.recommenders.types.rcp 1 4 2017-03-21 00:21:54.647
+!MESSAGE Full project indexing required:
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-beans-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-test-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.org.apache.commons.logging-1.1.1.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-expression-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-aop-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\mysql-connector-java-5.0.8-bin.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-context-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-tx-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.org.apache.log4j-1.2.15.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-jdbc-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-aspects-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-core-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.com.mchange.v2.c3p0-0.9.1.2.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.org.aopalliance-1.0.0.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.org.aspectj.weaver-1.6.8.RELEASE.jar
+
+!STACK 0
+org.eclipse.recommenders.utils.Logs$LogTraceException
+	at org.eclipse.recommenders.utils.Logs$LogTraceException.newTrace(Logs.java:381)
+	at org.eclipse.recommenders.utils.Logs.log(Logs.java:134)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.needsRebuild(ProjectTypesIndex.java:169)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.suggestRebuild(ProjectTypesIndex.java:444)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.rebuildIndex(TypesIndexService.java:120)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.processElementRemoved(TypesIndexService.java:107)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.process(TypesIndexService.java:76)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.process(TypesIndexService.java:63)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.process(TypesIndexService.java:63)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.elementChanged(TypesIndexService.java:49)
+	at org.eclipse.jdt.internal.core.DeltaProcessor$3.run(DeltaProcessor.java:1662)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.notifyListeners(DeltaProcessor.java:1652)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.firePostChangeDelta(DeltaProcessor.java:1486)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.fire(DeltaProcessor.java:1462)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.resourceChanged(DeltaProcessor.java:2074)
+	at org.eclipse.jdt.internal.core.DeltaProcessingState.resourceChanged(DeltaProcessingState.java:477)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:299)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:289)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:152)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:374)
+	at org.eclipse.core.internal.resources.Workspace.checkpoint(Workspace.java:529)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation$1.run(PerformChangeOperation.java:262)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2240)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2267)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.executeChange(PerformChangeOperation.java:305)
+	at org.eclipse.ltk.internal.ui.refactoring.UIPerformChangeOperation.executeChange(UIPerformChangeOperation.java:96)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.run(PerformChangeOperation.java:216)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2240)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2267)
+	at org.eclipse.ltk.internal.ui.refactoring.WorkbenchRunnableAdapter.run(WorkbenchRunnableAdapter.java:86)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:119)
+
+!ENTRY org.eclipse.recommenders.types.rcp 1 4 2017-03-21 00:21:54.665
+!MESSAGE Full project indexing required:
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-beans-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-test-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.org.apache.commons.logging-1.1.1.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-expression-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-aop-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\mysql-connector-java-5.0.8-bin.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-context-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-tx-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.org.apache.log4j-1.2.15.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-jdbc-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-aspects-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-core-3.2.0.RELEASE.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.com.mchange.v2.c3p0-0.9.1.2.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.org.aopalliance-1.0.0.jar
+  [-] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.org.aspectj.weaver-1.6.8.RELEASE.jar
+
+!STACK 0
+org.eclipse.recommenders.utils.Logs$LogTraceException
+	at org.eclipse.recommenders.utils.Logs$LogTraceException.newTrace(Logs.java:381)
+	at org.eclipse.recommenders.utils.Logs.log(Logs.java:134)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.needsRebuild(ProjectTypesIndex.java:169)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.suggestRebuild(ProjectTypesIndex.java:444)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.rebuildIndex(TypesIndexService.java:120)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.processElementRemoved(TypesIndexService.java:107)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.process(TypesIndexService.java:76)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.process(TypesIndexService.java:63)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.process(TypesIndexService.java:63)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.elementChanged(TypesIndexService.java:49)
+	at org.eclipse.jdt.internal.core.DeltaProcessor$3.run(DeltaProcessor.java:1662)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.notifyListeners(DeltaProcessor.java:1652)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.firePostChangeDelta(DeltaProcessor.java:1486)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.fire(DeltaProcessor.java:1462)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.resourceChanged(DeltaProcessor.java:2074)
+	at org.eclipse.jdt.internal.core.DeltaProcessingState.resourceChanged(DeltaProcessingState.java:477)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:299)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:289)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:152)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:374)
+	at org.eclipse.core.internal.resources.Workspace.checkpoint(Workspace.java:529)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation$1.run(PerformChangeOperation.java:262)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2240)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2267)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.executeChange(PerformChangeOperation.java:305)
+	at org.eclipse.ltk.internal.ui.refactoring.UIPerformChangeOperation.executeChange(UIPerformChangeOperation.java:96)
+	at org.eclipse.ltk.core.refactoring.PerformChangeOperation.run(PerformChangeOperation.java:216)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2240)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2267)
+	at org.eclipse.ltk.internal.ui.refactoring.WorkbenchRunnableAdapter.run(WorkbenchRunnableAdapter.java:86)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:119)
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2017-03-21 00:22:07.657
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.com.mchange.v2.c3p0-0.9.1.2.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getRawClasspathEntry(PackageFragmentRoot.java:562)
+	at org.eclipse.jdt.internal.ui.wizards.buildpaths.LibrariesWorkbookPage.getSelectedPackageFragmentRoot(LibrariesWorkbookPage.java:380)
+	at org.eclipse.jdt.internal.ui.wizards.buildpaths.LibrariesWorkbookPage.updateEnabledState(LibrariesWorkbookPage.java:633)
+	at org.eclipse.jdt.internal.ui.wizards.buildpaths.LibrariesWorkbookPage.libaryPageSelectionChanged(LibrariesWorkbookPage.java:626)
+	at org.eclipse.jdt.internal.ui.wizards.buildpaths.LibrariesWorkbookPage.access$1(LibrariesWorkbookPage.java:625)
+	at org.eclipse.jdt.internal.ui.wizards.buildpaths.LibrariesWorkbookPage$LibrariesAdapter.selectionChanged(LibrariesWorkbookPage.java:209)
+	at org.eclipse.jdt.internal.ui.wizards.dialogfields.TreeListDialogField.doListSelected(TreeListDialogField.java:940)
+	at org.eclipse.jdt.internal.ui.wizards.dialogfields.TreeListDialogField$TreeViewerAdapter.selectionChanged(TreeListDialogField.java:927)
+	at org.eclipse.jface.viewers.Viewer$1.run(Viewer.java:158)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.JFaceUtil$1.run(JFaceUtil.java:50)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:173)
+	at org.eclipse.jface.viewers.Viewer.fireSelectionChanged(Viewer.java:155)
+	at org.eclipse.jface.viewers.StructuredViewer.updateSelection(StructuredViewer.java:2191)
+	at org.eclipse.jface.viewers.StructuredViewer.handleSelect(StructuredViewer.java:1229)
+	at org.eclipse.jface.viewers.StructuredViewer$4.widgetSelected(StructuredViewer.java:1258)
+	at org.eclipse.jface.util.OpenStrategy.fireSelectionEvent(OpenStrategy.java:242)
+	at org.eclipse.jface.util.OpenStrategy.access$4(OpenStrategy.java:236)
+	at org.eclipse.jface.util.OpenStrategy$1.handleEvent(OpenStrategy.java:405)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4410)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1079)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4228)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3816)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:818)
+	at org.eclipse.jface.window.Window.open(Window.java:794)
+	at org.eclipse.jdt.internal.ui.wizards.buildpaths.newsourcepage.ConfigureBuildPathAction.run(ConfigureBuildPathAction.java:85)
+	at org.eclipse.jface.action.Action.runWithEvent(Action.java:473)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:565)
+	at org.eclipse.jface.action.ActionContributionItem.lambda$4(ActionContributionItem.java:397)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4410)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1079)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4228)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3816)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1121)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1022)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:150)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:687)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:604)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:138)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:673)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:610)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1519)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1492)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2017-03-21 00:22:07.658
+!MESSAGE C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.com.mchange.v2.c3p0-0.9.1.2.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2017-03-21 00:22:11.520
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.com.mchange.v2.c3p0-0.9.1.2.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getRawClasspathEntry(PackageFragmentRoot.java:562)
+	at org.eclipse.jdt.internal.ui.wizards.buildpaths.LibrariesWorkbookPage.getSelectedPackageFragmentRoot(LibrariesWorkbookPage.java:380)
+	at org.eclipse.jdt.internal.ui.wizards.buildpaths.LibrariesWorkbookPage.updateEnabledState(LibrariesWorkbookPage.java:633)
+	at org.eclipse.jdt.internal.ui.wizards.buildpaths.LibrariesWorkbookPage.libaryPageSelectionChanged(LibrariesWorkbookPage.java:626)
+	at org.eclipse.jdt.internal.ui.wizards.buildpaths.LibrariesWorkbookPage.access$1(LibrariesWorkbookPage.java:625)
+	at org.eclipse.jdt.internal.ui.wizards.buildpaths.LibrariesWorkbookPage$LibrariesAdapter.selectionChanged(LibrariesWorkbookPage.java:209)
+	at org.eclipse.jdt.internal.ui.wizards.dialogfields.TreeListDialogField.doListSelected(TreeListDialogField.java:940)
+	at org.eclipse.jdt.internal.ui.wizards.dialogfields.TreeListDialogField$TreeViewerAdapter.selectionChanged(TreeListDialogField.java:927)
+	at org.eclipse.jface.viewers.Viewer$1.run(Viewer.java:158)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.JFaceUtil$1.run(JFaceUtil.java:50)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:173)
+	at org.eclipse.jface.viewers.Viewer.fireSelectionChanged(Viewer.java:155)
+	at org.eclipse.jface.viewers.StructuredViewer.updateSelection(StructuredViewer.java:2191)
+	at org.eclipse.jface.viewers.StructuredViewer.handleSelect(StructuredViewer.java:1229)
+	at org.eclipse.jface.viewers.StructuredViewer$4.widgetSelected(StructuredViewer.java:1258)
+	at org.eclipse.jface.util.OpenStrategy.fireSelectionEvent(OpenStrategy.java:242)
+	at org.eclipse.jface.util.OpenStrategy.access$4(OpenStrategy.java:236)
+	at org.eclipse.jface.util.OpenStrategy$1.handleEvent(OpenStrategy.java:405)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4410)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1079)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4228)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3816)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:818)
+	at org.eclipse.jface.window.Window.open(Window.java:794)
+	at org.eclipse.jdt.internal.ui.wizards.buildpaths.newsourcepage.ConfigureBuildPathAction.run(ConfigureBuildPathAction.java:85)
+	at org.eclipse.jface.action.Action.runWithEvent(Action.java:473)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:565)
+	at org.eclipse.jface.action.ActionContributionItem.lambda$4(ActionContributionItem.java:397)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4410)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1079)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4228)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3816)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1121)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1022)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:150)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:687)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:604)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:138)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:673)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:610)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1519)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1492)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2017-03-21 00:22:11.521
+!MESSAGE C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.com.mchange.v2.c3p0-0.9.1.2.jar is not on its project's build path
+
+!ENTRY org.eclipse.jdt.ui 4 10001 2017-03-21 00:22:11.956
+!MESSAGE Internal Error
+!STACK 1
+Java Model Exception: Java Model Status [C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.com.mchange.v2.c3p0-0.9.1.2.jar is not on its project's build path]
+	at org.eclipse.jdt.internal.core.PackageFragmentRoot.getRawClasspathEntry(PackageFragmentRoot.java:562)
+	at org.eclipse.jdt.internal.ui.wizards.buildpaths.LibrariesWorkbookPage.getSelectedPackageFragmentRoot(LibrariesWorkbookPage.java:380)
+	at org.eclipse.jdt.internal.ui.wizards.buildpaths.LibrariesWorkbookPage.updateEnabledState(LibrariesWorkbookPage.java:633)
+	at org.eclipse.jdt.internal.ui.wizards.buildpaths.LibrariesWorkbookPage.libaryPageSelectionChanged(LibrariesWorkbookPage.java:626)
+	at org.eclipse.jdt.internal.ui.wizards.buildpaths.LibrariesWorkbookPage.access$1(LibrariesWorkbookPage.java:625)
+	at org.eclipse.jdt.internal.ui.wizards.buildpaths.LibrariesWorkbookPage$LibrariesAdapter.selectionChanged(LibrariesWorkbookPage.java:209)
+	at org.eclipse.jdt.internal.ui.wizards.dialogfields.TreeListDialogField.doListSelected(TreeListDialogField.java:940)
+	at org.eclipse.jdt.internal.ui.wizards.dialogfields.TreeListDialogField$TreeViewerAdapter.selectionChanged(TreeListDialogField.java:927)
+	at org.eclipse.jface.viewers.Viewer$1.run(Viewer.java:158)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.ui.internal.JFaceUtil$1.run(JFaceUtil.java:50)
+	at org.eclipse.jface.util.SafeRunnable.run(SafeRunnable.java:173)
+	at org.eclipse.jface.viewers.Viewer.fireSelectionChanged(Viewer.java:155)
+	at org.eclipse.jface.viewers.StructuredViewer.updateSelection(StructuredViewer.java:2191)
+	at org.eclipse.jface.viewers.StructuredViewer.handleSelect(StructuredViewer.java:1229)
+	at org.eclipse.jface.viewers.StructuredViewer$4.widgetSelected(StructuredViewer.java:1258)
+	at org.eclipse.jface.util.OpenStrategy.fireSelectionEvent(OpenStrategy.java:242)
+	at org.eclipse.jface.util.OpenStrategy.access$4(OpenStrategy.java:236)
+	at org.eclipse.jface.util.OpenStrategy$1.handleEvent(OpenStrategy.java:405)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4410)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1079)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4228)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3816)
+	at org.eclipse.jface.window.Window.runEventLoop(Window.java:818)
+	at org.eclipse.jface.window.Window.open(Window.java:794)
+	at org.eclipse.jdt.internal.ui.wizards.buildpaths.newsourcepage.ConfigureBuildPathAction.run(ConfigureBuildPathAction.java:85)
+	at org.eclipse.jface.action.Action.runWithEvent(Action.java:473)
+	at org.eclipse.jface.action.ActionContributionItem.handleWidgetSelection(ActionContributionItem.java:565)
+	at org.eclipse.jface.action.ActionContributionItem.lambda$4(ActionContributionItem.java:397)
+	at org.eclipse.swt.widgets.EventTable.sendEvent(EventTable.java:84)
+	at org.eclipse.swt.widgets.Display.sendEvent(Display.java:4410)
+	at org.eclipse.swt.widgets.Widget.sendEvent(Widget.java:1079)
+	at org.eclipse.swt.widgets.Display.runDeferredEvents(Display.java:4228)
+	at org.eclipse.swt.widgets.Display.readAndDispatch(Display.java:3816)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine$4.run(PartRenderingEngine.java:1121)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.e4.ui.internal.workbench.swt.PartRenderingEngine.run(PartRenderingEngine.java:1022)
+	at org.eclipse.e4.ui.internal.workbench.E4Workbench.createAndRunUI(E4Workbench.java:150)
+	at org.eclipse.ui.internal.Workbench$5.run(Workbench.java:687)
+	at org.eclipse.core.databinding.observable.Realm.runWithDefault(Realm.java:336)
+	at org.eclipse.ui.internal.Workbench.createAndRunWorkbench(Workbench.java:604)
+	at org.eclipse.ui.PlatformUI.createAndRunWorkbench(PlatformUI.java:148)
+	at org.eclipse.ui.internal.ide.application.IDEApplication.start(IDEApplication.java:138)
+	at org.eclipse.equinox.internal.app.EclipseAppHandle.run(EclipseAppHandle.java:196)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.runApplication(EclipseAppLauncher.java:134)
+	at org.eclipse.core.runtime.internal.adaptor.EclipseAppLauncher.start(EclipseAppLauncher.java:104)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:388)
+	at org.eclipse.core.runtime.adaptor.EclipseStarter.run(EclipseStarter.java:243)
+	at sun.reflect.NativeMethodAccessorImpl.invoke0(Native Method)
+	at sun.reflect.NativeMethodAccessorImpl.invoke(NativeMethodAccessorImpl.java:62)
+	at sun.reflect.DelegatingMethodAccessorImpl.invoke(DelegatingMethodAccessorImpl.java:43)
+	at java.lang.reflect.Method.invoke(Method.java:498)
+	at org.eclipse.equinox.launcher.Main.invokeFramework(Main.java:673)
+	at org.eclipse.equinox.launcher.Main.basicRun(Main.java:610)
+	at org.eclipse.equinox.launcher.Main.run(Main.java:1519)
+	at org.eclipse.equinox.launcher.Main.main(Main.java:1492)
+!SUBENTRY 1 org.eclipse.jdt.core 4 1006 2017-03-21 00:22:11.956
+!MESSAGE C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.com.mchange.v2.c3p0-0.9.1.2.jar is not on its project's build path
+
+!ENTRY org.eclipse.recommenders.types.rcp 1 4 2017-03-21 00:22:58.614
+!MESSAGE Full project indexing required:
+  [*] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.com.mchange.v2.c3p0-0.9.1.2.jar
+  [*] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.org.aopalliance-1.0.0.jar
+  [*] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.org.apache.commons.logging-1.1.1.jar
+  [*] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.org.apache.log4j-1.2.15.jar
+  [*] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.org.aspectj.weaver-1.6.8.RELEASE.jar
+  [*] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\mysql-connector-java-5.0.8-bin.jar
+  [*] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-aop-3.2.0.RELEASE.jar
+  [*] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-aspects-3.2.0.RELEASE.jar
+  [*] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-beans-3.2.0.RELEASE.jar
+  [*] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-context-3.2.0.RELEASE.jar
+  [*] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-core-3.2.0.RELEASE.jar
+  [*] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-expression-3.2.0.RELEASE.jar
+  [*] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-jdbc-3.2.0.RELEASE.jar
+  [*] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-test-3.2.0.RELEASE.jar
+  [*] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-tx-3.2.0.RELEASE.jar
+
+!STACK 0
+org.eclipse.recommenders.utils.Logs$LogTraceException
+	at org.eclipse.recommenders.utils.Logs$LogTraceException.newTrace(Logs.java:381)
+	at org.eclipse.recommenders.utils.Logs.log(Logs.java:134)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.needsRebuild(ProjectTypesIndex.java:169)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.suggestRebuild(ProjectTypesIndex.java:444)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.rebuildIndex(TypesIndexService.java:120)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.process(TypesIndexService.java:57)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.process(TypesIndexService.java:63)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.elementChanged(TypesIndexService.java:49)
+	at org.eclipse.jdt.internal.core.DeltaProcessor$3.run(DeltaProcessor.java:1662)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.notifyListeners(DeltaProcessor.java:1652)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.firePostChangeDelta(DeltaProcessor.java:1486)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.fire(DeltaProcessor.java:1462)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.resourceChanged(DeltaProcessor.java:2074)
+	at org.eclipse.jdt.internal.core.DeltaProcessingState.resourceChanged(DeltaProcessingState.java:477)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:299)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:289)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:152)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:374)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1469)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2253)
+	at org.eclipse.core.internal.resources.Workspace.run(Workspace.java:2267)
+	at org.eclipse.ui.actions.WorkspaceModifyOperation.run(WorkspaceModifyOperation.java:128)
+	at org.eclipse.jface.operation.ModalContext$ModalContextThread.run(ModalContext.java:119)
+
+!ENTRY org.eclipse.recommenders.types.rcp 1 4 2017-03-21 00:22:59.372
+!MESSAGE Full project indexing required:
+  [*] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.com.mchange.v2.c3p0-0.9.1.2.jar
+  [*] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.org.aopalliance-1.0.0.jar
+  [*] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.org.apache.commons.logging-1.1.1.jar
+  [*] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.org.apache.log4j-1.2.15.jar
+  [*] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.org.aspectj.weaver-1.6.8.RELEASE.jar
+  [*] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\mysql-connector-java-5.0.8-bin.jar
+  [*] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-aop-3.2.0.RELEASE.jar
+  [*] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-aspects-3.2.0.RELEASE.jar
+  [*] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-beans-3.2.0.RELEASE.jar
+  [*] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-context-3.2.0.RELEASE.jar
+  [*] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-core-3.2.0.RELEASE.jar
+  [*] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-expression-3.2.0.RELEASE.jar
+  [*] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-jdbc-3.2.0.RELEASE.jar
+  [*] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-test-3.2.0.RELEASE.jar
+  [*] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-tx-3.2.0.RELEASE.jar
+  [+] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.com.mchange.v2.c3p0-0.9.1.2.jar
+  [+] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.org.aopalliance-1.0.0.jar
+  [+] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.org.apache.commons.logging-1.1.1.jar
+  [+] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.org.apache.log4j-1.2.15.jar
+  [+] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\com.springsource.org.aspectj.weaver-1.6.8.RELEASE.jar
+  [+] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\mysql-connector-java-5.0.8-bin.jar
+  [+] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-aop-3.2.0.RELEASE.jar
+  [+] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-aspects-3.2.0.RELEASE.jar
+  [+] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-beans-3.2.0.RELEASE.jar
+  [+] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-context-3.2.0.RELEASE.jar
+  [+] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-core-3.2.0.RELEASE.jar
+  [+] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-expression-3.2.0.RELEASE.jar
+  [+] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-jdbc-3.2.0.RELEASE.jar
+  [+] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-test-3.2.0.RELEASE.jar
+  [+] C:\study\workspace\git\Spring\spring_transaction\WebContent\WEB-INF\lib\spring-tx-3.2.0.RELEASE.jar
+
+!STACK 0
+org.eclipse.recommenders.utils.Logs$LogTraceException
+	at org.eclipse.recommenders.utils.Logs$LogTraceException.newTrace(Logs.java:381)
+	at org.eclipse.recommenders.utils.Logs.log(Logs.java:134)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.needsRebuild(ProjectTypesIndex.java:169)
+	at org.eclipse.recommenders.internal.types.rcp.ProjectTypesIndex.suggestRebuild(ProjectTypesIndex.java:444)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.rebuildIndex(TypesIndexService.java:120)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.process(TypesIndexService.java:57)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.process(TypesIndexService.java:63)
+	at org.eclipse.recommenders.internal.types.rcp.TypesIndexService.elementChanged(TypesIndexService.java:49)
+	at org.eclipse.jdt.internal.core.DeltaProcessor$3.run(DeltaProcessor.java:1662)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.notifyListeners(DeltaProcessor.java:1652)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.firePostChangeDelta(DeltaProcessor.java:1486)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.fire(DeltaProcessor.java:1462)
+	at org.eclipse.jdt.internal.core.DeltaProcessor.resourceChanged(DeltaProcessor.java:2074)
+	at org.eclipse.jdt.internal.core.DeltaProcessingState.resourceChanged(DeltaProcessingState.java:477)
+	at org.eclipse.core.internal.events.NotificationManager$1.run(NotificationManager.java:299)
+	at org.eclipse.core.runtime.SafeRunner.run(SafeRunner.java:42)
+	at org.eclipse.core.internal.events.NotificationManager.notify(NotificationManager.java:289)
+	at org.eclipse.core.internal.events.NotificationManager.broadcastChanges(NotificationManager.java:152)
+	at org.eclipse.core.internal.resources.Workspace.broadcastPostChange(Workspace.java:374)
+	at org.eclipse.core.internal.resources.Workspace.endOperation(Workspace.java:1469)
+	at org.eclipse.core.internal.resources.InternalWorkspaceJob.run(InternalWorkspaceJob.java:46)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+
+!ENTRY org.tigris.subversion.subclipse.core 4 0 2017-03-21 01:10:15.883
+!MESSAGE Could not auto-share project Spring
+!STACK 1
+org.tigris.subversion.subclipse.core.SVNException: 提供的 SVN 信息与磁盘上“Spring”项目的信息不相匹配。
+	at org.tigris.subversion.subclipse.core.resources.SVNWorkspaceRoot.setSharing(SVNWorkspaceRoot.java:206)
+	at org.tigris.subversion.subclipse.core.SVNTeamProviderType$AutoShareJob.autoconnectSVNProject(SVNTeamProviderType.java:140)
+	at org.tigris.subversion.subclipse.core.SVNTeamProviderType$AutoShareJob.run(SVNTeamProviderType.java:106)
+	at org.eclipse.core.internal.jobs.Worker.run(Worker.java:55)
+!SUBENTRY 1 org.tigris.subversion.subclipse.core 4 4 2017-03-21 01:10:15.884
+!MESSAGE 提供的 SVN 信息与磁盘上“Spring”项目的信息不相匹配。
